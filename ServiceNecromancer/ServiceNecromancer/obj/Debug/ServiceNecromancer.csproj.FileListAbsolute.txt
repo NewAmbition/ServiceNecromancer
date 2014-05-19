@@ -1,0 +1,1 @@
+c:\users\dylank\documents\visual studio 2012\Projects\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe.config
