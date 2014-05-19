@@ -1,0 +1,5 @@
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\bin\Debug\Enchiridion.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\bin\Debug\Enchiridion.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.csprojResolveAssemblyReference.cache
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.pdb

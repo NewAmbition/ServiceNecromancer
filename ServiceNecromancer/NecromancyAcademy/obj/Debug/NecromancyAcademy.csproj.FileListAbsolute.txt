@@ -1,0 +1,11 @@
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\obj\Debug\NecromancyAcademy.csprojResolveAssemblyReference.cache
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\NecromancyAcademy.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\NecromancyAcademy.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\Enchiridion.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\nunit.framework.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\ServiceNecromancer.exe
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\Enchiridion.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\ServiceNecromancer.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\bin\Debug\nunit.framework.xml
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\obj\Debug\NecromancyAcademy.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\NecromancyAcademy\obj\Debug\NecromancyAcademy.pdb

@@ -1,7 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceNecromancer", "ServiceNecromancer\ServiceNecromancer.csproj", "{74F24079-29BB-4AAE-9168-C8F711452B11}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecromancyAcademy", "NecromancyAcademy\NecromancyAcademy.csproj", "{7E03B5DF-EE39-4BA4-99B1-8A35D59A749B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceNecromancer", "ServiceNecromancer\ServiceNecromancer.csproj", "{5FCE0FE5-B57E-4040-AC2C-FD0DABB302E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enchiridion", "Enchiridion\Enchiridion.csproj", "{6AE5185A-5345-4620-B737-DDED122A6744}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

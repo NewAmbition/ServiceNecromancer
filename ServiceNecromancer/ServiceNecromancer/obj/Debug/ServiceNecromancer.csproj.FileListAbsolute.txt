@@ -1,1 +1,8 @@
-c:\users\dylank\documents\visual studio 2012\Projects\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe.config
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe.config
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.csprojResolveAssemblyReference.cache
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.exe
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.pdb
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.dll
+C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.pdb
