@@ -3,8 +3,3 @@ C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridio
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.csprojResolveAssemblyReference.cache
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.dll
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\Enchiridion\bin\Debug\Enchiridion.dll
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\Enchiridion\bin\Debug\Enchiridion.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.csprojResolveAssemblyReference.cache
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.dll
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\Enchiridion\obj\Debug\Enchiridion.pdb

@@ -6,11 +6,3 @@ C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNec
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.pdb
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.dll
 C:\Users\SemiDemented\Documents\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe.config
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.exe
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.exe
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\ServiceNecromancer.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.dll
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\bin\Debug\Enchiridion.pdb
-C:\_PersonalDev\ServiceNecromancer\ServiceNecromancer\ServiceNecromancer\obj\Debug\ServiceNecromancer.csprojResolveAssemblyReference.cache
