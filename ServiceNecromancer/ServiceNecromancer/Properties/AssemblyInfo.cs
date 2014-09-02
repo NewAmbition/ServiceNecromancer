@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ServiceNecromancer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("HEAVEN KILLERS RELEASE GROUP")]
 [assembly: AssemblyProduct("ServiceNecromancer")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright © HEAVEN KILLERS RELEASE GROUP 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3fe9f8f9-33d0-4881-90f0-c17e654660a1")]
+[assembly: Guid("08d13a69-0e02-4fe1-b327-2a70fd5de01a")]
 
 // Version information for an assembly consists of the following four values:
 //
